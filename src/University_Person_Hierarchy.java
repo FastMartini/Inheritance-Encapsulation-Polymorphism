@@ -1,3 +1,9 @@
+/* Diego Martinez | 6401977
+Dr. Xian Su
+Homework #2
+February 10, 2025
+*/
+
 // Superclass Person with private fields name and age
 class Person {
     private String name;

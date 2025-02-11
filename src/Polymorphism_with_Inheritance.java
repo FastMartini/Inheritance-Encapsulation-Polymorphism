@@ -1,3 +1,9 @@
+/* Diego Martinez | 6401977
+Dr. Xian Su
+Homework #2
+February 10, 2025
+*/
+
 // Superclass Employee with name and salary fields
 class Employee {
     protected String name;

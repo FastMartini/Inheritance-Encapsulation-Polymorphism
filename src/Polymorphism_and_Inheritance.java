@@ -1,3 +1,9 @@
+/* Diego Martinez | 6401977
+Dr. Xian Su
+Homework #2
+February 10, 2025
+*/
+
 class Food {
     private String name; // Private field for food name
 

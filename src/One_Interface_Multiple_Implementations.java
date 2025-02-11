@@ -1,3 +1,9 @@
+/* Diego Martinez | 6401977
+Dr. Xian Su
+Homework #2
+February 10, 2025
+*/
+
 // Define an interface Drawable with a method draw()
 interface Drawable {
     void draw();

@@ -1,3 +1,9 @@
+/* Diego Martinez | 6401977
+Dr. Xian Su
+Homework #2
+February 10, 2025
+*/
+
 public class Student_GPA {
     // Private field for student ID
     private int id;
